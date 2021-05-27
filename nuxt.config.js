@@ -47,7 +47,8 @@ export default {
       name: 'test PWA',
       lang: 'en',
       useWebmanifestExtension: false,
-      theme_color: '#00b5ad'
+      theme_color: '#00b5ad',
+      crossOrigin: 'use-credentials'
     }
   },
 
