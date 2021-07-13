@@ -48,7 +48,7 @@ export default {
       lang: 'en',
       useWebmanifestExtension: false,
       theme_color: '#00b5ad',
-      crossOrigin: 'use-credentials'
+      crossorigin: 'use-credentials'
     }
   },
 

@@ -3,9 +3,9 @@
     <div>
       <Logo />
       <h1 class="title">
-        test-pwa
+        test-pwa RUSSIA!!!! RUSSIA!!! RUSSIA!!!!
       </h1>
-      <nuxt-link to="/about">About</nuxt-link>
+      <nuxt-link to="/about">About images</nuxt-link>
     </div>
 
     <div class="post-items">
